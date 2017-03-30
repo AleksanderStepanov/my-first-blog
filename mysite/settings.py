@@ -25,7 +25,7 @@ SECRET_KEY = '=%+=s9#g8%%jj#4@26=v$j3&dn7xzqlqr0gehd=t^+wm1z8x-7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['setgekko.pythonanywhere.com']
 
 
 # Application definition
